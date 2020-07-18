@@ -1,0 +1,3 @@
+Canvas\object\Canvas.class
+Canvas\canvas\App.class
+exception\CanvasException.class
